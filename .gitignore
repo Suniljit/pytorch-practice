@@ -6,3 +6,6 @@ __pycache__/
 
 # Lightning logs
 lightning_logs/
+
+# macOS folder attributes
+.DS_Store
